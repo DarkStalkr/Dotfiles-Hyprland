@@ -1,0 +1,193 @@
+[2024-07-05 17:32:05.954] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 17:32:05.960] [info] restore proxy settings {:type "system"}
+[2024-07-05 17:32:05.961] [info] set proxy to {:type "system"}
+[2024-07-05 17:32:09.114] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 17:32:23.555] [info] :electron.handler/open-dir open folder selection dialog
+[2024-07-05 17:32:34.743] [debug] :electron.handler/open-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:32:34.885] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:33:02.168] [debug] window-all-closed Quitting...
+[2024-07-05 17:35:40.251] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 17:35:40.257] [info] restore proxy settings {:type "system"}
+[2024-07-05 17:35:40.258] [info] set proxy to {:type "system"}
+[2024-07-05 17:35:43.401] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 17:35:43.436] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:35:43.437] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:35:54.825] [debug] window-all-closed Quitting...
+[2024-07-05 17:45:10.152] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 17:45:10.158] [info] restore proxy settings {:type "system"}
+[2024-07-05 17:45:10.159] [info] set proxy to {:type "system"}
+[2024-07-05 17:45:13.378] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 17:45:13.420] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:45:13.422] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:45:16.025] [debug] window-all-closed Quitting...
+[2024-07-05 17:50:25.233] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 17:50:25.240] [info] restore proxy settings {:type "system"}
+[2024-07-05 17:50:25.241] [info] set proxy to {:type "system"}
+[2024-07-05 17:50:28.502] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 17:50:28.525] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:50:28.527] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 17:50:35.026] [debug] window-all-closed Quitting...
+[2024-07-05 18:05:38.375] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 18:05:38.382] [info] restore proxy settings {:type "system"}
+[2024-07-05 18:05:38.383] [info] set proxy to {:type "system"}
+[2024-07-05 18:05:41.786] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 18:05:41.821] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:05:41.823] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:06:12.923] [debug] window-all-closed Quitting...
+[2024-07-05 18:11:07.085] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 18:11:07.093] [info] restore proxy settings {:type "system"}
+[2024-07-05 18:11:07.094] [info] set proxy to {:type "system"}
+[2024-07-05 18:11:10.333] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 18:11:10.395] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:11:10.396] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:11:22.934] [debug] window-all-closed Quitting...
+[2024-07-05 18:44:04.346] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 18:44:04.352] [info] restore proxy settings {:type "system"}
+[2024-07-05 18:44:04.353] [info] set proxy to {:type "system"}
+[2024-07-05 18:44:07.635] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 18:44:07.671] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:44:07.673] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:44:20.598] [debug] window-all-closed Quitting...
+[2024-07-05 18:53:37.073] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 18:53:37.079] [info] restore proxy settings {:type "system"}
+[2024-07-05 18:53:37.080] [info] set proxy to {:type "system"}
+[2024-07-05 18:53:40.301] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 18:53:40.336] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:53:40.338] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 18:53:42.583] [debug] window-all-closed Quitting...
+[2024-07-05 22:28:51.395] [info] Logseq App(0.10.9) Starting... 
+[2024-07-05 22:28:51.403] [info] restore proxy settings {:type "system"}
+[2024-07-05 22:28:51.404] [info] set proxy to {:type "system"}
+[2024-07-05 22:28:54.568] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-05 22:28:54.602] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-05 22:28:54.604] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-06 00:24:52.717] [info] :electron.handler/unlink {:path "/home/sohighman/Documents/Notes/pages/Thoughts.md"}
+[2024-07-06 00:24:52.718] [debug] :electron.handler/unlink recycle to /home/sohighman/Documents/Notes/logseq/.recycle/pages_Thoughts.md
+[2024-07-06 00:24:52.824] [debug] :electron.fs-watcher/on-unlink {:path "/home/sohighman/Documents/Notes/pages/Thoughts.md"}
+[2024-07-06 00:26:44.466] [debug] window-all-closed Quitting...
+[2024-07-06 00:29:02.297] [info] Logseq App(0.10.9) Starting... 
+[2024-07-06 00:29:02.303] [info] restore proxy settings {:type "system"}
+[2024-07-06 00:29:02.304] [info] set proxy to {:type "system"}
+[2024-07-06 00:29:05.571] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-06 00:29:05.606] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-06 00:29:05.608] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-06 00:31:56.766] [debug] window-all-closed Quitting...
+[2024-07-06 01:35:10.782] [info] Logseq App(0.10.9) Starting... 
+[2024-07-06 01:35:10.789] [info] restore proxy settings {:type "system"}
+[2024-07-06 01:35:10.790] [info] set proxy to {:type "system"}
+[2024-07-06 01:35:13.996] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-06 01:35:14.030] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-06 01:35:14.032] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-06 01:35:17.279] [debug] window-all-closed Quitting...
+[2024-07-06 01:35:23.347] [info] Logseq App(0.10.9) Starting... 
+[2024-07-06 01:35:23.354] [info] restore proxy settings {:type "system"}
+[2024-07-06 01:35:23.355] [info] set proxy to {:type "system"}
+[2024-07-06 01:35:26.546] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-06 01:35:26.569] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-06 01:35:26.571] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-06 01:40:15.249] [debug] [Marketplace] === Installing: xyhp915/logseq-journals-calendar ===
+[2024-07-06 01:40:17.266] [debug] [Marketplace] ERR: valid github api -  FetchError: network timeout at: https://plugins.logseq.io/github/api/rate_limit
+    at Timeout.<anonymous> (/tmp/.mount_LogseqqSPuND/resources/app/node_modules/node-fetch/lib/index.js:1484:13)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2024-07-06 01:40:18.445] [debug] [Marketplace] === Installing: pengx17/logseq-plugin-bullet-threading ===
+[2024-07-06 01:40:21.051] [debug] [Marketplace] === Installing: vipzhicheng/logseq-plugin-mark-map ===
+[2024-07-06 01:40:21.244] [debug] [Marketplace] Release latest: https://api.github.com/repos/pengx17/logseq-plugin-bullet-threading/releases/latest :status 200
+[2024-07-06 01:40:21.249] [debug] [Marketplace] Release latest: v1.1.4  from https://api.github.com/repos/pengx17/logseq-plugin-bullet-threading/releases/assets/110059142
+[2024-07-06 01:40:22.271] [debug] [Marketplace] FetchError: network timeout at: https://api.github.com/repos/xyhp915/logseq-journals-calendar/releases/latest
+    at Timeout.<anonymous> (/tmp/.mount_LogseqqSPuND/resources/app/node_modules/node-fetch/lib/index.js:1484:13)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2024-07-06 01:40:22.273] [debug] [Marketplace] Error: [:release-channel-issue "network timeout at: https://api.github.com/repos/xyhp915/logseq-journals-calendar/releases/latest"]
+    at /tmp/.mount_LogseqqSPuND/resources/app/electron.js:14260:11
+    at /tmp/.mount_LogseqqSPuND/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-06 01:40:22.668] [debug] [Marketplace] === Installing: sawhney17/logseq-pdf-export ===
+[2024-07-06 01:40:23.125] [debug] [Marketplace] Release latest: https://api.github.com/repos/sawhney17/logseq-pdf-export/releases/latest :status 200
+[2024-07-06 01:40:23.129] [debug] [Marketplace] Release latest: 2.2.10  from https://api.github.com/repos/sawhney17/logseq-pdf-export/releases/assets/150324609
+[2024-07-06 01:40:23.428] [debug] [Marketplace] [Updated DONE] v1.1.4
+[2024-07-06 01:40:24.456] [debug] [Marketplace] [Updated DONE] 2.2.10
+[2024-07-06 01:40:26.054] [debug] [Marketplace] FetchError: network timeout at: https://api.github.com/repos/vipzhicheng/logseq-plugin-mark-map/releases/latest
+    at Timeout.<anonymous> (/tmp/.mount_LogseqqSPuND/resources/app/node_modules/node-fetch/lib/index.js:1484:13)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2024-07-06 01:40:26.055] [debug] [Marketplace] Error: [:release-channel-issue "network timeout at: https://api.github.com/repos/vipzhicheng/logseq-plugin-mark-map/releases/latest"]
+    at /tmp/.mount_LogseqqSPuND/resources/app/electron.js:14260:11
+    at /tmp/.mount_LogseqqSPuND/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-06 01:40:34.737] [debug] [Marketplace] === Installing: xyhp915/logseq-journals-calendar ===
+[2024-07-06 01:40:35.270] [debug] [Marketplace] Release latest: https://api.github.com/repos/xyhp915/logseq-journals-calendar/releases/latest :status 200
+[2024-07-06 01:40:35.273] [debug] [Marketplace] Release latest: v0.10.10  from https://api.github.com/repos/xyhp915/logseq-journals-calendar/releases/assets/107493748
+[2024-07-06 01:40:38.567] [debug] [Marketplace] [Updated DONE] v0.10.10
+[2024-07-06 02:18:31.422] [debug] window-all-closed Quitting...
+[2024-07-07 12:04:58.036] [info] Logseq App(0.10.9) Starting... 
+[2024-07-07 12:04:58.044] [info] restore proxy settings {:type "system"}
+[2024-07-07 12:04:58.045] [info] set proxy to {:type "system"}
+[2024-07-07 12:05:01.676] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-07 12:05:01.720] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 12:05:01.722] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 12:05:07.006] [debug] [Marketplace] === Updating: xyhp915/logseq-journals-calendar ===
+[2024-07-07 12:05:07.659] [debug] window-all-closed Quitting...
+[2024-07-07 12:05:14.540] [info] Logseq App(0.10.9) Starting... 
+[2024-07-07 12:05:14.546] [info] restore proxy settings {:type "system"}
+[2024-07-07 12:05:14.547] [info] set proxy to {:type "system"}
+[2024-07-07 12:05:18.233] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-07 12:05:18.279] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 12:05:18.281] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 12:05:20.809] [debug] window-all-closed Quitting...
+[2024-07-07 12:05:26.177] [info] Logseq App(0.10.9) Starting... 
+[2024-07-07 12:05:26.184] [info] restore proxy settings {:type "system"}
+[2024-07-07 12:05:26.184] [info] set proxy to {:type "system"}
+[2024-07-07 12:05:29.781] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-07 12:05:29.837] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 12:05:29.838] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 12:20:29.199] [debug] window-all-closed Quitting...
+[2024-07-07 12:20:34.941] [info] Logseq App(0.10.9) Starting... 
+[2024-07-07 12:20:34.948] [info] restore proxy settings {:type "system"}
+[2024-07-07 12:20:34.948] [info] set proxy to {:type "system"}
+[2024-07-07 12:20:38.495] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-07 12:20:38.543] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 12:20:38.544] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 16:21:22.108] [debug] window-all-closed Quitting...
+[2024-07-07 19:54:45.481] [info] Logseq App(0.10.9) Starting... 
+[2024-07-07 19:54:45.484] [info] restore proxy settings {:type "system"}
+[2024-07-07 19:54:45.485] [info] set proxy to {:type "system"}
+[2024-07-07 19:54:46.956] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-07 19:54:46.989] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-07 19:54:46.990] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 18:24:51.151] [info] Logseq App(0.10.9) Starting... 
+[2024-07-08 18:24:51.160] [info] restore proxy settings {:type "system"}
+[2024-07-08 18:24:51.162] [info] set proxy to {:type "system"}
+[2024-07-08 18:24:54.746] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-08 18:24:54.789] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 18:24:54.790] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 18:25:00.275] [debug] [Marketplace] === Updating: sawhney17/logseq-pdf-export ===
+[2024-07-08 18:25:01.503] [debug] window-all-closed Quitting...
+[2024-07-08 21:29:50.440] [info] Logseq App(0.10.9) Starting... 
+[2024-07-08 21:29:50.448] [info] restore proxy settings {:type "system"}
+[2024-07-08 21:29:50.448] [info] set proxy to {:type "system"}
+[2024-07-08 21:29:54.127] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-08 21:29:54.175] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 21:29:54.176] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 21:29:55.701] [debug] window-all-closed Quitting...
+[2024-07-08 23:11:52.424] [info] Logseq App(0.10.9) Starting... 
+[2024-07-08 23:11:52.431] [info] restore proxy settings {:type "system"}
+[2024-07-08 23:11:52.432] [info] set proxy to {:type "system"}
+[2024-07-08 23:11:56.236] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-08 23:11:56.282] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 23:11:56.284] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 23:12:29.845] [debug] window-all-closed Quitting...
+[2024-07-08 23:33:29.211] [info] Logseq App(0.10.9) Starting... 
+[2024-07-08 23:33:29.219] [info] restore proxy settings {:type "system"}
+[2024-07-08 23:33:29.220] [info] set proxy to {:type "system"}
+[2024-07-08 23:33:33.000] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-08 23:33:33.048] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 23:33:33.049] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-08 23:33:50.698] [debug] window-all-closed Quitting...
+[2024-07-09 19:11:30.198] [info] Logseq App(0.10.9) Starting... 
+[2024-07-09 19:11:30.207] [info] restore proxy settings {:type "system"}
+[2024-07-09 19:11:30.208] [info] set proxy to {:type "system"}
+[2024-07-09 19:11:33.903] [debug] :electron.handler/watch-dir {:path "/home/sohighman/.logseq/config"}
+[2024-07-09 19:11:33.956] [debug] :electron.handler/unwatch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-09 19:11:33.959] [debug] :electron.handler/watch-dir {:path "/home/sohighman/Documents/Notes"}
+[2024-07-09 19:13:25.788] [debug] window-all-closed Quitting...

@@ -1,0 +1,24 @@
+2024/07/08-21:30:23.328 2dde6 Reusing MANIFEST /home/sohighman/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/07/08-21:30:23.335 2dde6 Recovering log #14
+2024/07/08-21:30:23.336 2dde6 Reusing old log /home/sohighman/.config/vesktop/sessionData/Local Storage/leveldb/000014.log 
+2024/07/08-21:35:45.246 2dde6 Level-0 table #18: started
+2024/07/08-21:35:45.267 2dde6 Level-0 table #18: 38292 bytes OK
+2024/07/08-21:35:45.268 2dde6 Delete type=0 #14
+2024/07/08-22:05:45.246 2dde8 Level-0 table #20: started
+2024/07/08-22:05:45.268 2dde8 Level-0 table #20: 17324 bytes OK
+2024/07/08-22:05:45.269 2dde8 Delete type=0 #17
+2024/07/08-22:39:45.246 2dde6 Level-0 table #22: started
+2024/07/08-22:39:45.267 2dde6 Level-0 table #22: 15810 bytes OK
+2024/07/08-22:39:45.269 2dde6 Delete type=0 #19
+2024/07/08-22:39:45.269 2dde6 Compacting 4@0 + 1@1 files
+2024/07/08-22:39:45.271 2dde6 Generated table #23@0: 90 keys, 43585 bytes
+2024/07/08-22:39:45.271 2dde6 Compacted 4@0 + 1@1 files => 43585 bytes
+2024/07/08-22:39:45.272 2dde6 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/07/08-22:39:45.272 2dde6 Delete type=2 #12
+2024/07/08-22:39:45.272 2dde6 Delete type=2 #15
+2024/07/08-22:39:45.272 2dde6 Delete type=2 #18
+2024/07/08-22:39:45.273 2dde6 Delete type=2 #20
+2024/07/08-22:39:45.273 2dde6 Delete type=2 #22
+2024/07/08-23:16:45.245 2dde6 Level-0 table #25: started
+2024/07/08-23:16:45.266 2dde6 Level-0 table #25: 19977 bytes OK
+2024/07/08-23:16:45.268 2dde6 Delete type=0 #21

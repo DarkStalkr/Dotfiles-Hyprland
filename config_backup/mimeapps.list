@@ -1,0 +1,21 @@
+[Added Associations]
+image/png=org.geeqie.Geeqie.desktop;swappy.desktop;
+image/jpeg=swappy.desktop;
+text/html=firefox.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-42EGQ2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-42EGQ2.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-EYTKQ2.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-EYTKQ2.desktop;
+application/pdf=chromium.desktop;firefox.desktop;
+
+[Default Applications]
+image/jpeg=swappy.desktop
+text/html=firefox.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-42EGQ2.desktop
+message/rfc822=userapp-Thunderbird-42EGQ2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-42EGQ2.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-EYTKQ2.desktop
+text/calendar=userapp-Thunderbird-EYTKQ2.desktop
+application/x-extension-ics=userapp-Thunderbird-EYTKQ2.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-EYTKQ2.desktop
+application/pdf=firefox.desktop

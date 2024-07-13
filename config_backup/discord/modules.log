@@ -1,0 +1,802 @@
+2024-07-01T06:47:42.150Z [Modules] Modules initializing
+2024-07-01T06:47:42.151Z [Modules] Distribution: remote
+2024-07-01T06:47:42.151Z [Modules] Host updates: enabled
+2024-07-01T06:47:42.151Z [Modules] Module updates: enabled
+2024-07-01T06:47:42.151Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-01T06:47:42.151Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-01T06:47:42.151Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-01T06:47:42.331Z [Modules] Bootstrapping...
+2024-07-01T06:47:42.332Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-07-01T06:47:42.334Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-07-01T06:47:42.335Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-07-01T06:47:42.337Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-07-01T06:47:42.337Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-07-01T06:47:42.338Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-07-01T06:47:42.338Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-07-01T06:47:42.339Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-07-01T06:47:42.339Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-07-01T06:47:42.339Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-07-01T06:47:42.340Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-07-01T06:47:42.340Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-07-01T06:47:42.340Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-07-01T06:47:42.340Z [Modules] Checking for host updates.
+2024-07-01T06:47:47.627Z [Modules] Host is up to date.
+2024-07-01T06:47:47.627Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:47:47.696Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-07-01T06:47:47.696Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-07-01T06:47:47.696Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-07-01T06:47:47.696Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-07-01T06:47:47.696Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-07-01T06:47:47.696Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-07-01T06:47:47.696Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-07-01T06:47:47.697Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip
+2024-07-01T06:47:48.471Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 1%
+2024-07-01T06:47:48.529Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 2%
+2024-07-01T06:47:48.530Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 3%
+2024-07-01T06:47:48.602Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 4%
+2024-07-01T06:47:48.862Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 7%
+2024-07-01T06:47:48.863Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 9%
+2024-07-01T06:47:48.867Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 11%
+2024-07-01T06:47:48.920Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 14%
+2024-07-01T06:47:48.927Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 16%
+2024-07-01T06:47:48.963Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 17%
+2024-07-01T06:47:48.997Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 18%
+2024-07-01T06:47:48.999Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 19%
+2024-07-01T06:47:49.005Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 20%
+2024-07-01T06:47:49.009Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 21%
+2024-07-01T06:47:49.076Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 22%
+2024-07-01T06:47:49.085Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 23%
+2024-07-01T06:47:49.091Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 24%
+2024-07-01T06:47:49.096Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 25%
+2024-07-01T06:47:49.111Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 26%
+2024-07-01T06:47:49.118Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 27%
+2024-07-01T06:47:49.124Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 28%
+2024-07-01T06:47:49.129Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 30%
+2024-07-01T06:47:49.130Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 31%
+2024-07-01T06:47:49.136Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 33%
+2024-07-01T06:47:49.146Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 34%
+2024-07-01T06:47:49.220Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 37%
+2024-07-01T06:47:49.221Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 38%
+2024-07-01T06:47:49.223Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 39%
+2024-07-01T06:47:49.232Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 40%
+2024-07-01T06:47:49.240Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 42%
+2024-07-01T06:47:49.248Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 45%
+2024-07-01T06:47:49.250Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 46%
+2024-07-01T06:47:49.257Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 48%
+2024-07-01T06:47:49.279Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 49%
+2024-07-01T06:47:49.473Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 52%
+2024-07-01T06:47:49.474Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 53%
+2024-07-01T06:47:49.475Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 56%
+2024-07-01T06:47:49.476Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 59%
+2024-07-01T06:47:49.477Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 71%
+2024-07-01T06:47:49.478Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 84%
+2024-07-01T06:47:49.483Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 85%
+2024-07-01T06:47:49.483Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 88%
+2024-07-01T06:47:49.484Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 91%
+2024-07-01T06:47:49.485Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 92%
+2024-07-01T06:47:49.487Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 94%
+2024-07-01T06:47:49.514Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 95%
+2024-07-01T06:47:49.514Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 96%
+2024-07-01T06:47:49.517Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 97%
+2024-07-01T06:47:49.519Z [Modules] Streaming discord_desktop_core@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip: 100%
+2024-07-01T06:47:49.520Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-07-01T06:47:49.520Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip
+2024-07-01T06:47:49.717Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 2%
+2024-07-01T06:47:49.720Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 3%
+2024-07-01T06:47:49.723Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 4%
+2024-07-01T06:47:49.725Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 6%
+2024-07-01T06:47:49.728Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 7%
+2024-07-01T06:47:49.730Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 9%
+2024-07-01T06:47:49.733Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 10%
+2024-07-01T06:47:49.735Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 11%
+2024-07-01T06:47:49.736Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 12%
+2024-07-01T06:47:49.739Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 13%
+2024-07-01T06:47:49.744Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 14%
+2024-07-01T06:47:49.751Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 15%
+2024-07-01T06:47:49.752Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 16%
+2024-07-01T06:47:49.756Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 18%
+2024-07-01T06:47:49.759Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 19%
+2024-07-01T06:47:49.822Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 21%
+2024-07-01T06:47:49.825Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 24%
+2024-07-01T06:47:49.828Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 25%
+2024-07-01T06:47:49.830Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 27%
+2024-07-01T06:47:49.836Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 28%
+2024-07-01T06:47:49.875Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 29%
+2024-07-01T06:47:49.876Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 32%
+2024-07-01T06:47:49.881Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 35%
+2024-07-01T06:47:49.883Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 36%
+2024-07-01T06:47:49.888Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 37%
+2024-07-01T06:47:49.890Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 40%
+2024-07-01T06:47:49.893Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 41%
+2024-07-01T06:47:49.896Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 43%
+2024-07-01T06:47:49.899Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 44%
+2024-07-01T06:47:49.949Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 46%
+2024-07-01T06:47:49.952Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 49%
+2024-07-01T06:47:49.956Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 51%
+2024-07-01T06:47:49.959Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 53%
+2024-07-01T06:47:49.962Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 55%
+2024-07-01T06:47:49.964Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 57%
+2024-07-01T06:47:49.967Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 59%
+2024-07-01T06:47:49.969Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 60%
+2024-07-01T06:47:49.972Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 62%
+2024-07-01T06:47:49.975Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 64%
+2024-07-01T06:47:49.977Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 65%
+2024-07-01T06:47:49.980Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 68%
+2024-07-01T06:47:49.984Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 69%
+2024-07-01T06:47:49.987Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 71%
+2024-07-01T06:47:49.989Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 72%
+2024-07-01T06:47:49.992Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 74%
+2024-07-01T06:47:49.994Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 76%
+2024-07-01T06:47:49.997Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 78%
+2024-07-01T06:47:50.000Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 80%
+2024-07-01T06:47:50.052Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 81%
+2024-07-01T06:47:50.055Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 82%
+2024-07-01T06:47:50.057Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 84%
+2024-07-01T06:47:50.060Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 86%
+2024-07-01T06:47:50.062Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 87%
+2024-07-01T06:47:50.065Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 90%
+2024-07-01T06:47:50.067Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 91%
+2024-07-01T06:47:50.070Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 93%
+2024-07-01T06:47:50.073Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 95%
+2024-07-01T06:47:50.075Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 96%
+2024-07-01T06:47:50.076Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 97%
+2024-07-01T06:47:50.077Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 98%
+2024-07-01T06:47:50.078Z [Modules] Streaming discord_erlpack@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip: 100%
+2024-07-01T06:47:50.079Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-07-01T06:47:50.079Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip
+2024-07-01T06:47:50.315Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 1%
+2024-07-01T06:47:50.323Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 2%
+2024-07-01T06:47:50.328Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 3%
+2024-07-01T06:47:50.335Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 4%
+2024-07-01T06:47:50.345Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 5%
+2024-07-01T06:47:50.350Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 6%
+2024-07-01T06:47:50.361Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 7%
+2024-07-01T06:47:50.366Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 8%
+2024-07-01T06:47:50.373Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 9%
+2024-07-01T06:47:50.435Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 10%
+2024-07-01T06:47:50.492Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 11%
+2024-07-01T06:47:50.497Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 12%
+2024-07-01T06:47:50.506Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 13%
+2024-07-01T06:47:50.567Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 14%
+2024-07-01T06:47:50.575Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 15%
+2024-07-01T06:47:50.582Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 16%
+2024-07-01T06:47:50.589Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 17%
+2024-07-01T06:47:50.598Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 18%
+2024-07-01T06:47:50.606Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 19%
+2024-07-01T06:47:50.611Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 20%
+2024-07-01T06:47:50.619Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 21%
+2024-07-01T06:47:50.625Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 22%
+2024-07-01T06:47:50.696Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 23%
+2024-07-01T06:47:50.703Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 24%
+2024-07-01T06:47:50.756Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 25%
+2024-07-01T06:47:50.762Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 26%
+2024-07-01T06:47:50.766Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 27%
+2024-07-01T06:47:50.773Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 28%
+2024-07-01T06:47:50.779Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 29%
+2024-07-01T06:47:50.834Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 30%
+2024-07-01T06:47:50.840Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 31%
+2024-07-01T06:47:50.848Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 32%
+2024-07-01T06:47:50.856Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 33%
+2024-07-01T06:47:50.861Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 34%
+2024-07-01T06:47:50.874Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 35%
+2024-07-01T06:47:50.881Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 36%
+2024-07-01T06:47:50.968Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 37%
+2024-07-01T06:47:51.108Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 38%
+2024-07-01T06:47:51.183Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 39%
+2024-07-01T06:47:51.183Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 40%
+2024-07-01T06:47:51.184Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 41%
+2024-07-01T06:47:51.185Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 42%
+2024-07-01T06:47:51.185Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 43%
+2024-07-01T06:47:51.185Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 44%
+2024-07-01T06:47:51.185Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 45%
+2024-07-01T06:47:51.186Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 47%
+2024-07-01T06:47:51.186Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 48%
+2024-07-01T06:47:51.187Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 49%
+2024-07-01T06:47:51.188Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 50%
+2024-07-01T06:47:51.188Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 51%
+2024-07-01T06:47:51.199Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 52%
+2024-07-01T06:47:51.207Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 53%
+2024-07-01T06:47:51.216Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 54%
+2024-07-01T06:47:51.221Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 55%
+2024-07-01T06:47:51.231Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 56%
+2024-07-01T06:47:51.237Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 57%
+2024-07-01T06:47:51.247Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 58%
+2024-07-01T06:47:51.255Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 59%
+2024-07-01T06:47:51.260Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 60%
+2024-07-01T06:47:51.268Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 61%
+2024-07-01T06:47:51.330Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 62%
+2024-07-01T06:47:51.338Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 63%
+2024-07-01T06:47:51.353Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 64%
+2024-07-01T06:47:51.391Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 65%
+2024-07-01T06:47:51.396Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 66%
+2024-07-01T06:47:51.404Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 67%
+2024-07-01T06:47:51.408Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 68%
+2024-07-01T06:47:51.417Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 69%
+2024-07-01T06:47:51.424Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 70%
+2024-07-01T06:47:51.434Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 71%
+2024-07-01T06:47:51.498Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 72%
+2024-07-01T06:47:51.500Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 73%
+2024-07-01T06:47:51.505Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 74%
+2024-07-01T06:47:51.510Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 75%
+2024-07-01T06:47:51.510Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 76%
+2024-07-01T06:47:51.524Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 77%
+2024-07-01T06:47:51.532Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 78%
+2024-07-01T06:47:51.537Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 79%
+2024-07-01T06:47:51.545Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 80%
+2024-07-01T06:47:51.550Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 81%
+2024-07-01T06:47:51.558Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 82%
+2024-07-01T06:47:51.565Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 83%
+2024-07-01T06:47:51.693Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 84%
+2024-07-01T06:47:51.697Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 85%
+2024-07-01T06:47:51.697Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 86%
+2024-07-01T06:47:51.698Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 88%
+2024-07-01T06:47:51.703Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 89%
+2024-07-01T06:47:51.709Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 90%
+2024-07-01T06:47:51.767Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 91%
+2024-07-01T06:47:51.772Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 92%
+2024-07-01T06:47:51.780Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 93%
+2024-07-01T06:47:51.785Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 94%
+2024-07-01T06:47:51.797Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 95%
+2024-07-01T06:47:51.802Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 96%
+2024-07-01T06:47:51.810Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 97%
+2024-07-01T06:47:51.870Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 98%
+2024-07-01T06:47:51.924Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 99%
+2024-07-01T06:47:51.979Z [Modules] Streaming discord_spellcheck@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip: 100%
+2024-07-01T06:47:51.979Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-07-01T06:47:51.979Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip
+2024-07-01T06:47:52.201Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 2%
+2024-07-01T06:47:52.204Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 3%
+2024-07-01T06:47:52.207Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 4%
+2024-07-01T06:47:52.209Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 5%
+2024-07-01T06:47:52.212Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 6%
+2024-07-01T06:47:52.214Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 8%
+2024-07-01T06:47:52.217Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 9%
+2024-07-01T06:47:52.220Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 10%
+2024-07-01T06:47:52.222Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 11%
+2024-07-01T06:47:52.225Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 12%
+2024-07-01T06:47:52.227Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 14%
+2024-07-01T06:47:52.232Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 15%
+2024-07-01T06:47:52.234Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 16%
+2024-07-01T06:47:52.238Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 17%
+2024-07-01T06:47:52.240Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 18%
+2024-07-01T06:47:52.243Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 19%
+2024-07-01T06:47:52.245Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 20%
+2024-07-01T06:47:52.248Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 21%
+2024-07-01T06:47:52.324Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 23%
+2024-07-01T06:47:52.326Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 24%
+2024-07-01T06:47:52.328Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 26%
+2024-07-01T06:47:52.331Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 27%
+2024-07-01T06:47:52.334Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 28%
+2024-07-01T06:47:52.336Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 29%
+2024-07-01T06:47:52.391Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 30%
+2024-07-01T06:47:52.393Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 31%
+2024-07-01T06:47:52.396Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 32%
+2024-07-01T06:47:52.399Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 34%
+2024-07-01T06:47:52.401Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 36%
+2024-07-01T06:47:52.406Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 37%
+2024-07-01T06:47:52.408Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 38%
+2024-07-01T06:47:52.411Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 39%
+2024-07-01T06:47:52.414Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 40%
+2024-07-01T06:47:52.415Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 42%
+2024-07-01T06:47:52.421Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 43%
+2024-07-01T06:47:52.424Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 45%
+2024-07-01T06:47:52.432Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 46%
+2024-07-01T06:47:52.435Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 48%
+2024-07-01T06:47:52.487Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 49%
+2024-07-01T06:47:52.488Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 51%
+2024-07-01T06:47:52.492Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 52%
+2024-07-01T06:47:52.495Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 53%
+2024-07-01T06:47:52.496Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 55%
+2024-07-01T06:47:52.504Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 57%
+2024-07-01T06:47:52.509Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 58%
+2024-07-01T06:47:52.510Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 60%
+2024-07-01T06:47:52.511Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 61%
+2024-07-01T06:47:52.511Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 62%
+2024-07-01T06:47:52.512Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 64%
+2024-07-01T06:47:52.513Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 66%
+2024-07-01T06:47:52.517Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 68%
+2024-07-01T06:47:52.519Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 69%
+2024-07-01T06:47:52.522Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 70%
+2024-07-01T06:47:52.524Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 71%
+2024-07-01T06:47:52.527Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 72%
+2024-07-01T06:47:52.529Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 74%
+2024-07-01T06:47:52.532Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 75%
+2024-07-01T06:47:52.535Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 76%
+2024-07-01T06:47:52.599Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 77%
+2024-07-01T06:47:52.651Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 78%
+2024-07-01T06:47:52.655Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 80%
+2024-07-01T06:47:52.658Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 81%
+2024-07-01T06:47:52.660Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 82%
+2024-07-01T06:47:52.663Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 83%
+2024-07-01T06:47:52.665Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 85%
+2024-07-01T06:47:52.667Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 86%
+2024-07-01T06:47:52.720Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 87%
+2024-07-01T06:47:52.721Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 89%
+2024-07-01T06:47:52.722Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 92%
+2024-07-01T06:47:52.722Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 94%
+2024-07-01T06:47:52.725Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 95%
+2024-07-01T06:47:52.728Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 96%
+2024-07-01T06:47:52.731Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 97%
+2024-07-01T06:47:52.734Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 98%
+2024-07-01T06:47:52.736Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 99%
+2024-07-01T06:47:52.737Z [Modules] Streaming discord_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip: 100%
+2024-07-01T06:47:52.737Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-07-01T06:47:52.737Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip
+2024-07-01T06:47:52.948Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 1%
+2024-07-01T06:47:52.970Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 2%
+2024-07-01T06:47:52.985Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 3%
+2024-07-01T06:47:53.075Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 4%
+2024-07-01T06:47:53.137Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 5%
+2024-07-01T06:47:53.160Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 6%
+2024-07-01T06:47:53.173Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 7%
+2024-07-01T06:47:53.241Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 8%
+2024-07-01T06:47:53.246Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 9%
+2024-07-01T06:47:53.266Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 10%
+2024-07-01T06:47:53.282Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 11%
+2024-07-01T06:47:53.408Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 12%
+2024-07-01T06:47:53.422Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 13%
+2024-07-01T06:47:53.467Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 14%
+2024-07-01T06:47:53.500Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 15%
+2024-07-01T06:47:53.513Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 16%
+2024-07-01T06:47:53.609Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 17%
+2024-07-01T06:47:53.673Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 18%
+2024-07-01T06:47:53.688Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 19%
+2024-07-01T06:47:53.707Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 20%
+2024-07-01T06:47:53.775Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 21%
+2024-07-01T06:47:53.787Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 22%
+2024-07-01T06:47:53.787Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 23%
+2024-07-01T06:47:53.804Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 24%
+2024-07-01T06:47:53.881Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 25%
+2024-07-01T06:47:53.943Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 26%
+2024-07-01T06:47:54.001Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 27%
+2024-07-01T06:47:54.019Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 28%
+2024-07-01T06:47:54.080Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 29%
+2024-07-01T06:47:54.098Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 30%
+2024-07-01T06:47:54.119Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 31%
+2024-07-01T06:47:54.202Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 32%
+2024-07-01T06:47:54.264Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 33%
+2024-07-01T06:47:54.277Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 34%
+2024-07-01T06:47:54.319Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 35%
+2024-07-01T06:47:54.346Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 36%
+2024-07-01T06:47:54.357Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 37%
+2024-07-01T06:47:54.372Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 38%
+2024-07-01T06:47:54.457Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 39%
+2024-07-01T06:47:54.525Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 40%
+2024-07-01T06:47:54.532Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 41%
+2024-07-01T06:47:54.602Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 42%
+2024-07-01T06:47:54.618Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 43%
+2024-07-01T06:47:54.633Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 44%
+2024-07-01T06:47:54.720Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 45%
+2024-07-01T06:47:54.783Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 46%
+2024-07-01T06:47:54.803Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 47%
+2024-07-01T06:47:54.831Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 48%
+2024-07-01T06:47:54.869Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 49%
+2024-07-01T06:47:54.878Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 50%
+2024-07-01T06:47:54.893Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 51%
+2024-07-01T06:47:54.910Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 52%
+2024-07-01T06:47:55.036Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 53%
+2024-07-01T06:47:55.048Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 54%
+2024-07-01T06:47:55.105Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 55%
+2024-07-01T06:47:55.124Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 56%
+2024-07-01T06:47:55.186Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 57%
+2024-07-01T06:47:55.207Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 58%
+2024-07-01T06:47:55.222Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 59%
+2024-07-01T06:47:55.319Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 60%
+2024-07-01T06:47:55.384Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 61%
+2024-07-01T06:47:55.399Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 62%
+2024-07-01T06:47:55.416Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 63%
+2024-07-01T06:47:55.489Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 64%
+2024-07-01T06:47:55.499Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 65%
+2024-07-01T06:47:55.512Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 66%
+2024-07-01T06:47:55.531Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 67%
+2024-07-01T06:47:55.688Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 68%
+2024-07-01T06:47:55.697Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 69%
+2024-07-01T06:47:55.704Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 70%
+2024-07-01T06:47:55.705Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 71%
+2024-07-01T06:47:55.706Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 72%
+2024-07-01T06:47:55.792Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 73%
+2024-07-01T06:47:55.796Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 74%
+2024-07-01T06:47:55.801Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 75%
+2024-07-01T06:47:55.824Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 76%
+2024-07-01T06:47:55.927Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 77%
+2024-07-01T06:47:55.939Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 78%
+2024-07-01T06:47:55.959Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 79%
+2024-07-01T06:47:56.058Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 80%
+2024-07-01T06:47:56.059Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 81%
+2024-07-01T06:47:56.061Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 82%
+2024-07-01T06:47:56.062Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 83%
+2024-07-01T06:47:56.096Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 84%
+2024-07-01T06:47:56.108Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 85%
+2024-07-01T06:47:56.178Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 86%
+2024-07-01T06:47:56.188Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 87%
+2024-07-01T06:47:56.320Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 88%
+2024-07-01T06:47:56.321Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 89%
+2024-07-01T06:47:56.338Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 90%
+2024-07-01T06:47:56.480Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 91%
+2024-07-01T06:47:56.482Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 92%
+2024-07-01T06:47:56.483Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 93%
+2024-07-01T06:47:56.486Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 94%
+2024-07-01T06:47:56.487Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 95%
+2024-07-01T06:47:56.488Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 96%
+2024-07-01T06:47:56.544Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 97%
+2024-07-01T06:47:56.560Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 98%
+2024-07-01T06:47:56.579Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 99%
+2024-07-01T06:47:56.763Z [Modules] Streaming discord_voice@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip: 100%
+2024-07-01T06:47:56.764Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-07-01T06:47:56.764Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip
+2024-07-01T06:47:56.963Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 7%
+2024-07-01T06:47:56.965Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 19%
+2024-07-01T06:47:56.968Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 27%
+2024-07-01T06:47:56.970Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 39%
+2024-07-01T06:47:56.973Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 47%
+2024-07-01T06:47:56.975Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 56%
+2024-07-01T06:47:56.978Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 68%
+2024-07-01T06:47:56.980Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 76%
+2024-07-01T06:47:56.985Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 84%
+2024-07-01T06:47:56.987Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 92%
+2024-07-01T06:47:56.988Z [Modules] Streaming discord_zstd@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip: 100%
+2024-07-01T06:47:56.988Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-07-01T06:47:56.989Z [Modules] Installing updates...
+2024-07-01T06:47:56.989Z [Modules] Installing discord_desktop_core@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_desktop_core-1.zip
+2024-07-01T06:47:57.060Z [Modules] Installing discord_erlpack@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_erlpack-1.zip
+2024-07-01T06:47:57.109Z [Modules] Installing discord_spellcheck@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_spellcheck-1.zip
+2024-07-01T06:47:57.587Z [Modules] Installing discord_utils@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_utils-1.zip
+2024-07-01T06:47:57.669Z [Modules] Installing discord_voice@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_voice-1.zip
+2024-07-01T06:47:58.036Z [Modules] Installing discord_zstd@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_zstd-1.zip
+2024-07-01T06:47:58.045Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-07-01T06:47:58.045Z [Modules] Checking for host updates.
+2024-07-01T06:47:58.186Z [Modules] Host is up to date.
+2024-07-01T06:47:58.186Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:47:58.188Z [Modules] No module updates available.
+2024-07-01T06:47:59.237Z [Modules] Starting to install discord_krisp...
+2024-07-01T06:47:59.238Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-07-01T06:47:59.238Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip
+2024-07-01T06:47:59.242Z [Modules] Starting to install discord_game_utils...
+2024-07-01T06:47:59.559Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 3%
+2024-07-01T06:47:59.848Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 4%
+2024-07-01T06:47:59.863Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 5%
+2024-07-01T06:47:59.872Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 6%
+2024-07-01T06:47:59.958Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 7%
+2024-07-01T06:47:59.967Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 8%
+2024-07-01T06:47:59.978Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 9%
+2024-07-01T06:48:00.061Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 10%
+2024-07-01T06:48:00.072Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 11%
+2024-07-01T06:48:00.078Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 12%
+2024-07-01T06:48:00.091Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 13%
+2024-07-01T06:48:00.172Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 14%
+2024-07-01T06:48:00.181Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 15%
+2024-07-01T06:48:00.263Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 16%
+2024-07-01T06:48:00.276Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 17%
+2024-07-01T06:48:00.349Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 18%
+2024-07-01T06:48:00.423Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 19%
+2024-07-01T06:48:00.770Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 20%
+2024-07-01T06:48:00.828Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 21%
+2024-07-01T06:48:00.839Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 22%
+2024-07-01T06:48:00.842Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 23%
+2024-07-01T06:48:00.842Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 24%
+2024-07-01T06:48:00.850Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 25%
+2024-07-01T06:48:00.907Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 26%
+2024-07-01T06:48:00.925Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 27%
+2024-07-01T06:48:00.943Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 28%
+2024-07-01T06:48:01.053Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 29%
+2024-07-01T06:48:01.218Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 30%
+2024-07-01T06:48:01.222Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 31%
+2024-07-01T06:48:01.223Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 32%
+2024-07-01T06:48:01.223Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 33%
+2024-07-01T06:48:01.224Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 34%
+2024-07-01T06:48:01.274Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 35%
+2024-07-01T06:48:01.274Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 36%
+2024-07-01T06:48:01.289Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 37%
+2024-07-01T06:48:01.355Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 38%
+2024-07-01T06:48:01.371Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 39%
+2024-07-01T06:48:01.389Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 40%
+2024-07-01T06:48:01.480Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 41%
+2024-07-01T06:48:01.525Z [Modules] Checking for host updates.
+2024-07-01T06:48:01.548Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 42%
+2024-07-01T06:48:01.564Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 43%
+2024-07-01T06:48:01.582Z [Modules] Starting to install discord_rpc...
+2024-07-01T06:48:01.595Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 44%
+2024-07-01T06:48:01.629Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 45%
+2024-07-01T06:48:01.633Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 46%
+2024-07-01T06:48:01.639Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 47%
+2024-07-01T06:48:01.660Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 48%
+2024-07-01T06:48:01.730Z [Modules] Host is up to date.
+2024-07-01T06:48:01.730Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:48:01.732Z [Modules] No module updates available.
+2024-07-01T06:48:01.738Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 49%
+2024-07-01T06:48:01.802Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 50%
+2024-07-01T06:48:01.817Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 51%
+2024-07-01T06:48:01.826Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 52%
+2024-07-01T06:48:01.896Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 53%
+2024-07-01T06:48:01.911Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 54%
+2024-07-01T06:48:01.930Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 55%
+2024-07-01T06:48:02.027Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 56%
+2024-07-01T06:48:02.092Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 57%
+2024-07-01T06:48:02.106Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 58%
+2024-07-01T06:48:02.118Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 59%
+2024-07-01T06:48:02.182Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 60%
+2024-07-01T06:48:02.196Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 61%
+2024-07-01T06:48:02.197Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 62%
+2024-07-01T06:48:02.216Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 63%
+2024-07-01T06:48:02.342Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 64%
+2024-07-01T06:48:02.407Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 65%
+2024-07-01T06:48:02.411Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 66%
+2024-07-01T06:48:02.427Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 67%
+2024-07-01T06:48:02.495Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 68%
+2024-07-01T06:48:02.510Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 69%
+2024-07-01T06:48:02.526Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 70%
+2024-07-01T06:48:02.632Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 71%
+2024-07-01T06:48:02.691Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 72%
+2024-07-01T06:48:02.707Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 73%
+2024-07-01T06:48:02.717Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 74%
+2024-07-01T06:48:02.733Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 75%
+2024-07-01T06:48:02.812Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 76%
+2024-07-01T06:48:02.813Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 77%
+2024-07-01T06:48:02.814Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 78%
+2024-07-01T06:48:02.820Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 79%
+2024-07-01T06:48:02.838Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 80%
+2024-07-01T06:48:02.970Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 81%
+2024-07-01T06:48:02.984Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 82%
+2024-07-01T06:48:03.042Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 83%
+2024-07-01T06:48:03.058Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 84%
+2024-07-01T06:48:03.074Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 85%
+2024-07-01T06:48:03.164Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 86%
+2024-07-01T06:48:03.227Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 87%
+2024-07-01T06:48:03.242Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 88%
+2024-07-01T06:48:03.255Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 89%
+2024-07-01T06:48:03.317Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 90%
+2024-07-01T06:48:03.330Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 91%
+2024-07-01T06:48:03.339Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 92%
+2024-07-01T06:48:03.357Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 93%
+2024-07-01T06:48:03.486Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 94%
+2024-07-01T06:48:03.562Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 95%
+2024-07-01T06:48:03.581Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 96%
+2024-07-01T06:48:03.597Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 97%
+2024-07-01T06:48:03.666Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 98%
+2024-07-01T06:48:03.686Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 99%
+2024-07-01T06:48:03.699Z [Modules] Streaming discord_krisp@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip: 100%
+2024-07-01T06:48:03.700Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-07-01T06:48:03.700Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip
+2024-07-01T06:48:03.700Z [Modules] Installing discord_krisp@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_krisp-1.zip
+2024-07-01T06:48:03.928Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 1%
+2024-07-01T06:48:03.930Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 2%
+2024-07-01T06:48:03.932Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 4%
+2024-07-01T06:48:03.938Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 5%
+2024-07-01T06:48:03.941Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 7%
+2024-07-01T06:48:03.943Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 8%
+2024-07-01T06:48:03.946Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 10%
+2024-07-01T06:48:03.949Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 11%
+2024-07-01T06:48:03.951Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 12%
+2024-07-01T06:48:03.954Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 14%
+2024-07-01T06:48:03.956Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 15%
+2024-07-01T06:48:03.959Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 17%
+2024-07-01T06:48:03.962Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 18%
+2024-07-01T06:48:03.964Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 19%
+2024-07-01T06:48:03.967Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 21%
+2024-07-01T06:48:03.969Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 22%
+2024-07-01T06:48:03.972Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-07-01T06:48:03.972Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 24%
+2024-07-01T06:48:03.978Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 25%
+2024-07-01T06:48:04.052Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 26%
+2024-07-01T06:48:04.055Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 27%
+2024-07-01T06:48:04.057Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 29%
+2024-07-01T06:48:04.060Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 31%
+2024-07-01T06:48:04.062Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 33%
+2024-07-01T06:48:04.066Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 34%
+2024-07-01T06:48:04.115Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 35%
+2024-07-01T06:48:04.117Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 36%
+2024-07-01T06:48:04.119Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 38%
+2024-07-01T06:48:04.126Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 40%
+2024-07-01T06:48:04.129Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 41%
+2024-07-01T06:48:04.132Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 43%
+2024-07-01T06:48:04.134Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 45%
+2024-07-01T06:48:04.136Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 46%
+2024-07-01T06:48:04.141Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 49%
+2024-07-01T06:48:04.144Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 50%
+2024-07-01T06:48:04.146Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 52%
+2024-07-01T06:48:04.149Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 53%
+2024-07-01T06:48:04.152Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 54%
+2024-07-01T06:48:04.153Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 57%
+2024-07-01T06:48:04.171Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 59%
+2024-07-01T06:48:04.174Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 60%
+2024-07-01T06:48:04.176Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 62%
+2024-07-01T06:48:04.178Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 63%
+2024-07-01T06:48:04.202Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 64%
+2024-07-01T06:48:04.205Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 65%
+2024-07-01T06:48:04.207Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 67%
+2024-07-01T06:48:04.210Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 69%
+2024-07-01T06:48:04.212Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 70%
+2024-07-01T06:48:04.214Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 72%
+2024-07-01T06:48:04.218Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 75%
+2024-07-01T06:48:04.219Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 76%
+2024-07-01T06:48:04.220Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 77%
+2024-07-01T06:48:04.223Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 78%
+2024-07-01T06:48:04.225Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 80%
+2024-07-01T06:48:04.228Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 81%
+2024-07-01T06:48:04.230Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 82%
+2024-07-01T06:48:04.233Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 84%
+2024-07-01T06:48:04.236Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 85%
+2024-07-01T06:48:04.238Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 87%
+2024-07-01T06:48:04.241Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 88%
+2024-07-01T06:48:04.244Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 90%
+2024-07-01T06:48:04.246Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 91%
+2024-07-01T06:48:04.249Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 92%
+2024-07-01T06:48:04.251Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 93%
+2024-07-01T06:48:04.310Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 94%
+2024-07-01T06:48:04.311Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 95%
+2024-07-01T06:48:04.364Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 96%
+2024-07-01T06:48:04.366Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 97%
+2024-07-01T06:48:04.371Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 98%
+2024-07-01T06:48:04.422Z [Modules] Streaming discord_game_utils@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip: 100%
+2024-07-01T06:48:04.424Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-07-01T06:48:04.424Z [Modules] Streaming discord_rpc@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_rpc-1.zip
+2024-07-01T06:48:04.424Z [Modules] Installing discord_game_utils@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_game_utils-1.zip
+2024-07-01T06:48:04.481Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-07-01T06:48:04.631Z [Modules] Streaming discord_rpc@1 to /home/sohighman/.config/discord/0.0.58/modules/pending/discord_rpc-1.zip: 100%
+2024-07-01T06:48:04.632Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2024-07-01T06:48:04.632Z [Modules] Installing discord_rpc@1 from /home/sohighman/.config/discord/0.0.58/modules/pending/discord_rpc-1.zip
+2024-07-01T06:48:04.646Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-07-01T06:56:05.429Z [Modules] Modules initializing
+2024-07-01T06:56:05.429Z [Modules] Distribution: remote
+2024-07-01T06:56:05.430Z [Modules] Host updates: enabled
+2024-07-01T06:56:05.430Z [Modules] Module updates: enabled
+2024-07-01T06:56:05.430Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-01T06:56:05.430Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-01T06:56:05.430Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-01T06:56:05.735Z [Modules] No updates to install
+2024-07-01T06:56:05.736Z [Modules] Checking for host updates.
+2024-07-01T06:56:10.949Z [Modules] Host is up to date.
+2024-07-01T06:56:10.950Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:56:10.987Z [Modules] No module updates available.
+2024-07-01T06:56:13.960Z [Modules] Checking for host updates.
+2024-07-01T06:56:14.111Z [Modules] Host is up to date.
+2024-07-01T06:56:14.111Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:56:14.114Z [Modules] No module updates available.
+2024-07-01T06:56:15.333Z [Modules] Checking for host updates.
+2024-07-01T06:56:15.473Z [Modules] Host is up to date.
+2024-07-01T06:56:15.474Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:56:15.478Z [Modules] No module updates available.
+2024-07-01T06:59:04.948Z [Modules] Modules initializing
+2024-07-01T06:59:04.948Z [Modules] Distribution: remote
+2024-07-01T06:59:04.948Z [Modules] Host updates: enabled
+2024-07-01T06:59:04.948Z [Modules] Module updates: enabled
+2024-07-01T06:59:04.949Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-01T06:59:04.949Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-01T06:59:04.949Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-01T06:59:05.218Z [Modules] No updates to install
+2024-07-01T06:59:05.219Z [Modules] Checking for host updates.
+2024-07-01T06:59:05.454Z [Modules] Host is up to date.
+2024-07-01T06:59:05.454Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:59:05.459Z [Modules] No module updates available.
+2024-07-01T06:59:07.361Z [Modules] Checking for host updates.
+2024-07-01T06:59:07.489Z [Modules] Host is up to date.
+2024-07-01T06:59:07.489Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T06:59:07.492Z [Modules] No module updates available.
+2024-07-01T07:01:43.822Z [Modules] Modules initializing
+2024-07-01T07:01:43.822Z [Modules] Distribution: remote
+2024-07-01T07:01:43.822Z [Modules] Host updates: enabled
+2024-07-01T07:01:43.823Z [Modules] Module updates: enabled
+2024-07-01T07:01:43.823Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-01T07:01:43.823Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-01T07:01:43.823Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-01T07:01:43.980Z [Modules] No updates to install
+2024-07-01T07:01:43.981Z [Modules] Checking for host updates.
+2024-07-01T07:01:49.171Z [Modules] Host is up to date.
+2024-07-01T07:01:49.172Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T07:01:49.214Z [Modules] No module updates available.
+2024-07-01T07:01:50.482Z [Modules] Checking for host updates.
+2024-07-01T07:01:50.605Z [Modules] Host is up to date.
+2024-07-01T07:01:50.605Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T07:01:50.608Z [Modules] No module updates available.
+2024-07-01T07:03:10.962Z [Modules] Modules initializing
+2024-07-01T07:03:10.962Z [Modules] Distribution: remote
+2024-07-01T07:03:10.963Z [Modules] Host updates: enabled
+2024-07-01T07:03:10.963Z [Modules] Module updates: enabled
+2024-07-01T07:03:10.963Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-01T07:03:10.963Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-01T07:03:10.963Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-01T07:03:11.118Z [Modules] No updates to install
+2024-07-01T07:03:11.118Z [Modules] Checking for host updates.
+2024-07-01T07:03:16.375Z [Modules] Host is up to date.
+2024-07-01T07:03:16.376Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T07:03:16.379Z [Modules] No module updates available.
+2024-07-01T07:03:17.592Z [Modules] Checking for host updates.
+2024-07-01T07:03:17.719Z [Modules] Host is up to date.
+2024-07-01T07:03:17.719Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T07:03:17.721Z [Modules] No module updates available.
+2024-07-01T07:43:50.977Z [Modules] Modules initializing
+2024-07-01T07:43:50.977Z [Modules] Distribution: remote
+2024-07-01T07:43:50.977Z [Modules] Host updates: enabled
+2024-07-01T07:43:50.977Z [Modules] Module updates: enabled
+2024-07-01T07:43:50.978Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-01T07:43:50.978Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-01T07:43:50.978Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-01T07:43:51.136Z [Modules] No updates to install
+2024-07-01T07:43:51.136Z [Modules] Checking for host updates.
+2024-07-01T07:43:56.341Z [Modules] Host is up to date.
+2024-07-01T07:43:56.341Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T07:43:56.382Z [Modules] No module updates available.
+2024-07-01T07:43:57.668Z [Modules] Checking for host updates.
+2024-07-01T07:43:57.828Z [Modules] Host is up to date.
+2024-07-01T07:43:57.828Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-01T07:43:57.831Z [Modules] No module updates available.
+2024-07-04T08:04:42.505Z [Modules] Modules initializing
+2024-07-04T08:04:42.505Z [Modules] Distribution: remote
+2024-07-04T08:04:42.505Z [Modules] Host updates: enabled
+2024-07-04T08:04:42.506Z [Modules] Module updates: enabled
+2024-07-04T08:04:42.506Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-04T08:04:42.506Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-04T08:04:42.506Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-04T08:04:42.855Z [Modules] No updates to install
+2024-07-04T08:04:42.856Z [Modules] Checking for host updates.
+2024-07-04T08:04:48.208Z [Modules] Host is up to date.
+2024-07-04T08:04:48.208Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-04T08:04:48.269Z [Modules] No module updates available.
+2024-07-04T08:04:52.544Z [Modules] Checking for host updates.
+2024-07-04T08:04:52.744Z [Modules] Host is up to date.
+2024-07-04T08:04:52.744Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-04T08:04:52.748Z [Modules] No module updates available.
+2024-07-05T23:52:31.144Z [Modules] Modules initializing
+2024-07-05T23:52:31.144Z [Modules] Distribution: remote
+2024-07-05T23:52:31.144Z [Modules] Host updates: enabled
+2024-07-05T23:52:31.144Z [Modules] Module updates: enabled
+2024-07-05T23:52:31.145Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-05T23:52:31.145Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-05T23:52:31.145Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-05T23:52:31.476Z [Modules] No updates to install
+2024-07-05T23:52:31.477Z [Modules] Checking for host updates.
+2024-07-05T23:52:37.017Z [Modules] Host is up to date.
+2024-07-05T23:52:37.017Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-05T23:52:37.088Z [Modules] No module updates available.
+2024-07-05T23:52:40.961Z [Modules] Checking for host updates.
+2024-07-05T23:52:41.097Z [Modules] Host is up to date.
+2024-07-05T23:52:41.097Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-05T23:52:41.101Z [Modules] No module updates available.
+2024-07-06T00:05:51.427Z [Modules] Modules initializing
+2024-07-06T00:05:51.427Z [Modules] Distribution: remote
+2024-07-06T00:05:51.427Z [Modules] Host updates: enabled
+2024-07-06T00:05:51.428Z [Modules] Module updates: enabled
+2024-07-06T00:05:51.428Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-06T00:05:51.428Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-06T00:05:51.428Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-06T00:05:51.777Z [Modules] No updates to install
+2024-07-06T00:05:51.777Z [Modules] Checking for host updates.
+2024-07-06T00:05:57.198Z [Modules] Host is up to date.
+2024-07-06T00:05:57.199Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-06T00:05:57.300Z [Modules] No module updates available.
+2024-07-06T00:06:00.382Z [Modules] Checking for host updates.
+2024-07-06T00:06:00.522Z [Modules] Host is up to date.
+2024-07-06T00:06:00.522Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-06T00:06:00.528Z [Modules] No module updates available.
+2024-07-06T00:10:54.387Z [Modules] Modules initializing
+2024-07-06T00:10:54.387Z [Modules] Distribution: remote
+2024-07-06T00:10:54.387Z [Modules] Host updates: enabled
+2024-07-06T00:10:54.387Z [Modules] Module updates: enabled
+2024-07-06T00:10:54.387Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-06T00:10:54.387Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-06T00:10:54.387Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-06T00:10:54.753Z [Modules] No updates to install
+2024-07-06T00:10:54.754Z [Modules] Checking for host updates.
+2024-07-06T00:10:55.290Z [Modules] Host is up to date.
+2024-07-06T00:10:55.290Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-06T00:10:55.368Z [Modules] No module updates available.
+2024-07-06T00:10:58.373Z [Modules] Checking for host updates.
+2024-07-06T00:10:58.519Z [Modules] Host is up to date.
+2024-07-06T00:10:58.519Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-06T00:10:58.525Z [Modules] No module updates available.
+2024-07-06T00:52:57.557Z [Modules] Modules initializing
+2024-07-06T00:52:57.557Z [Modules] Distribution: remote
+2024-07-06T00:52:57.557Z [Modules] Host updates: enabled
+2024-07-06T00:52:57.557Z [Modules] Module updates: enabled
+2024-07-06T00:52:57.558Z [Modules] Module install path: /home/sohighman/.config/discord/0.0.58/modules
+2024-07-06T00:52:57.558Z [Modules] Module installed file path: /home/sohighman/.config/discord/0.0.58/modules/installed.json
+2024-07-06T00:52:57.558Z [Modules] Module download path: /home/sohighman/.config/discord/0.0.58/modules/pending
+2024-07-06T00:52:57.912Z [Modules] No updates to install
+2024-07-06T00:52:57.913Z [Modules] Checking for host updates.
+2024-07-06T00:53:03.198Z [Modules] Host is up to date.
+2024-07-06T00:53:03.198Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-06T00:53:03.256Z [Modules] No module updates available.
+2024-07-06T00:53:06.128Z [Modules] Checking for host updates.
+2024-07-06T00:53:06.287Z [Modules] Host is up to date.
+2024-07-06T00:53:06.287Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-06T00:53:06.292Z [Modules] No module updates available.

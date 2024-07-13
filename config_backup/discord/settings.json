@@ -1,0 +1,12 @@
+{
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 12,
+    "y": 62,
+    "width": 1512,
+    "height": 886
+  },
+  "chromiumSwitches": {},
+  "enableHardwareAcceleration": false
+}
