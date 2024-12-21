@@ -1,0 +1,11 @@
+2024/12/08-22:41:02.499 20e1f Creating DB /home/sohighman/.config/vesktop/sessionData/Local Storage/leveldb since it was missing.
+2024/12/08-22:41:02.527 20e1f Reusing MANIFEST /home/sohighman/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/12/08-22:43:23.604 20e20 Level-0 table #5: started
+2024/12/08-22:43:23.631 20e20 Level-0 table #5: 40440 bytes OK
+2024/12/08-22:43:23.636 20e20 Delete type=0 #3
+2024/12/08-22:50:23.603 20e1f Level-0 table #7: started
+2024/12/08-22:50:23.607 20e1f Level-0 table #7: 42535 bytes OK
+2024/12/08-22:50:23.611 20e1f Delete type=0 #4
+2024/12/08-23:22:22.268 20e1f Level-0 table #9: started
+2024/12/08-23:22:22.271 20e1f Level-0 table #9: 41811 bytes OK
+2024/12/08-23:22:22.275 20e1f Delete type=0 #6

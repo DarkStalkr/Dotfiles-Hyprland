@@ -1,0 +1,541 @@
+{
+	"file_history":
+	[
+		"/home/sohighman/Documentos/Projects/ConversionProgram/test1.py",
+		"/home/sohighman/Documentos/FIEL_COSD040908I87_20241209095954/Contraseña.txt",
+		"/home/sohighman/.config/vesktop/themes/ClearVision_v6.theme.css",
+		"/home/sohighman/.config/hypr/configs/misc.conf",
+		"/home/sohighman/.config/hypr/configs/monitors.conf",
+		"/home/sohighman/.config/hypr/binds/workspace.conf",
+		"/home/sohighman/.config/waybar/config-hypr"
+	],
+	"folder_history":
+	[
+		"/home/sohighman/Documentos/Projects/ConversionProgram",
+		"/home/sohighman/Documentos/C Programming Courses/Lesson 3",
+		"/home/sohighman/.config/vesktop/themes"
+	],
+	"last_version": 4186,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"next_update_check": 1734762984,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 523.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			29.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sohighman/.config/hypr/configs/windowrules.conf",
+				"/usr/share/applications/steam.desktop",
+				"/home/sohighman/Documentos/FIEL_COSD040908I87_20241209095954/Contraseña.txt",
+				"/home/sohighman/.config/vesktop/themes/ClearVision_v6.theme.css",
+				"/home/sohighman/.config/hypr/configs/misc.conf",
+				"/home/sohighman/.config/hypr/configs/monitors.conf",
+				"/home/sohighman/.config/hypr/binds/workspace.conf",
+				"/home/sohighman/.config/waybar/config-hypr"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					").$\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/usr/share/applications/steam.desktop",
+					"settings":
+					{
+						"buffer_size": 6471,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sohighman/.config/hypr/configs/windowrules.conf",
+					"settings":
+					{
+						"buffer_size": 2613,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							12,
+							1,
+							"",
+							null,
+							"AgAAAKkDAAAAAAAASAkAAAAAAAAAAAAASAkAAAAAAABICQAAAAAAAHQAAAAjIFN0ZWFtIHdpbmRvdyBtYW5hZ2VtZW50CndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oU3RlYW0pJCx0aXRsZTpeKFN0ZWFtKSQKd2luZG93cnVsZXYyID0gY2VudGVyLGNsYXNzOl4oU3RlYW0pJA",
+							"AQAAAAAAAAABAAAAqQMAAAAAAAAdBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"",
+							null,
+							"AgAAAAAAAAAAAAAANAoAAAAAAAAAAAAANAoAAAAAAAA0CgAAAAAAADYNAAAjIEZsb2F0IE5lY2Vzc2FyeSBXaW5kb3dzCndpbmRvd3J1bGU9ZmxvYXQsUm9maQp3aW5kb3dydWxlPWZsb2F0LHBhdnVjb250cm9sCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oKSQsdGl0bGU6XihQaWN0dXJlIGluIHBpY3R1cmUpJAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKGJyYXZlKSQsdGl0bGU6XihTYXZlIEZpbGUpJAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKGJyYXZlKSQsdGl0bGU6XihPcGVuIEZpbGUpJAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKExpYnJlV29sZikkLHRpdGxlOl4oUGljdHVyZS1pbi1QaWN0dXJlKSQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihibHVlbWFuLW1hbmFnZXIpJAoKIyBPcGFjaXR5IFJ1bGVzCndpbmRvd3J1bGU9b3BhY2l0eSAwLjkyLFRodW5hcgp3aW5kb3dydWxlPW9wYWNpdHkgMC45MixOYXV0aWx1cwp3aW5kb3dydWxlPW9wYWNpdHkgMC45NixkaXNjb3JkCndpbmRvd3J1bGU9b3BhY2l0eSAwLjk2LGFybWNvcmQKd2luZG93cnVsZT1vcGFjaXR5IDAuOTYsd2ViY29yZAoKCgojIH4vLmNvbmZpZy9oeXByL2NvbmZpZ3Mvd2luZG93cnVsZXMuY29uZgoKIyBSZWdsYXMgcGFyYSBhcGxpY2FjaW9uZXMgZW4gdHJheQp3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2Ugc3BlY2lhbDpoaWRkZW4sY2xhc3M6XihTdGVhbSkkCndpbmRvd3J1bGV2MiA9IHdvcmtzcGFjZSBzcGVjaWFsOmhpZGRlbixjbGFzczpeKGRpc2NvcmQpJAp3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2Ugc3BlY2lhbDpoaWRkZW4sY2xhc3M6Xih0ZWxlZ3JhbS1kZXNrdG9wKSQKd2luZG93cnVsZXYyID0gd29ya3NwYWNlIHNwZWNpYWw6aGlkZGVuLGNsYXNzOl4ocGF2dWNvbnRyb2wpJAp3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2Ugc3BlY2lhbDpoaWRkZW4sY2xhc3M6XihibHVlbWFuLW1hbmFnZXIpJAoKIyBTdGVhbSBtYWluIHdpbmRvdyAtIHRpbGVkCndpbmRvd3J1bGV2MiA9IHRpbGUsY2xhc3M6XihTdGVhbSkkLHRpdGxlOl4oU3RlYW0pJAoKIyBTdGVhbSBjaGlsZCB3aW5kb3dzIGFuZCBkaWFsb2dzIC0gYWxsIGZsb2F0aW5nCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKEZyaWVuZHMgTGlzdCkkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKFN0ZWFtIC0gTmV3cykkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oU3RlYW0pJCx0aXRsZTpeKFN0ZWFtIC0gTmV3cykkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTouKihTZXR0aW5ncykkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTouKihUcmFuc2ZlcikuKiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOi4qKERvd25sb2FkcykkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oU3RlYW0pJCx0aXRsZTpeKFByb3BlcnRpZXMpLiokCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKFByb3BlcnRpZXMpLiokCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKEFkZCBOb24tU3RlYW0gR2FtZSkuKiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oQWRkIGEgR2FtZSkuKiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbXdlYmhlbHBlcikkCgojIFN0ZWFtIHNwZWNpZmljIHdpbmRvdyBiZWhhdmlvcnMKd2luZG93cnVsZXYyID0gY2VudGVyLGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKEZyaWVuZHMgTGlzdCkkCndpbmRvd3J1bGV2MiA9IHNpemUgODAwIDYwMCxjbGFzczpeKHN0ZWFtKSQsdGl0bGU6XihGcmllbmRzIExpc3QpJAp3aW5kb3dydWxldjIgPSBjZW50ZXIsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oU3RlYW0gLSBOZXdzKSQKd2luZG93cnVsZXYyID0gc2l6ZSAxMDAwIDcwMCxjbGFzczpeKHN0ZWFtKSQsdGl0bGU6XihTdGVhbSAtIE5ld3MpJAoKIyBTdGVhbSB1cGRhdGVyIGFuZCB1dGlsaXRpZXMKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oU3RlYW0gLSBTZWxmIFVwZGF0ZXIpJAp3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2Ugc3BlY2lhbDpoaWRkZW4sY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oU3RlYW0gLSBTZWxmIFVwZGF0ZXIpJAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKHN0ZWFtKSQsdGl0bGU6XihTY3JlZW5zaG90IFVwbG9hZGVyKS4kCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKFN0ZWFtIEd1YXJkKS4kCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTouKihDRCBLZXkpLiQKCiMgUmVnbGFzIHBhcmEgUGF2dWNvbnRyb2wKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihwYXZ1Y29udHJvbCkkCndpbmRvd3J1bGV2MiA9IHBpbixjbGFzczpeKHBhdnVjb250cm9sKSQKd2luZG93cnVsZXYyID0gc2l6ZSA4MDAgNjAwLGNsYXNzOl4ocGF2dWNvbnRyb2wpJAp3aW5kb3dydWxldjIgPSBjZW50ZXIsY2xhc3M6XihwYXZ1Y29udHJvbCkkCgojIFJlZ2xhcyBwYXJhIHZlbnRhbmFzIGVzcGVjw61maWNhcwp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKFN0ZWFtKSQsdGl0bGU6XihTdGVhbSAtIE5ld3MpJAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKFN0ZWFtKSQsdGl0bGU6XihTdGVhbSAtIFNlbGYgVXBkYXRlcikkCndpbmRvd3J1bGV2MiA9IHdvcmtzcGFjZSBzcGVjaWFsOmhpZGRlbixjbGFzczpeKFN0ZWFtKSQsdGl0bGU6XihTdGVhbSAtIFNlbGYgVXBkYXRlcikkCgojIFJlZ2xhcyBwYXJhIERpc2NvcmQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihkaXNjb3JkKSQsdGl0bGU6XihEaXNjb3JkIFVwZGF0ZXIpJAp3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2Ugc3BlY2lhbDpoaWRkZW4sY2xhc3M6XihkaXNjb3JkKSQsdGl0bGU6XihEaXNjb3JkIFVwZGF0ZXIpJAoKIyBBc2lnbmFjacOzbiBkZSB3b3Jrc3BhY2VzCiN3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2UgMSBzaWxlbnQsY2xhc3M6XihTdGVhbSkkCiN3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2UgMiBzaWxlbnQsY2xhc3M6XihkaXNjb3JkKSQKI3dpbmRvd3J1bGV2MiA9IHdvcmtzcGFjZSAzIHNpbGVudCxjbGFzczpeKHRlbGVncmFtLWRlc2t0b3ApJAoKIyBSZWdsYXMgZGUgYW5pbWFjacOzbgp3aW5kb3dydWxldjIgPSBhbmltYXRpb24gc2xpZGUsY2xhc3M6XihTdGVhbSkkCndpbmRvd3J1bGV2MiA9IGFuaW1hdGlvbiBzbGlkZSxjbGFzczpeKGRpc2NvcmQpJAp3aW5kb3dydWxldjIgPSBhbmltYXRpb24gc2xpZGUsY2xhc3M6Xih0ZWxlZ3JhbS1kZXNrdG9wKSQKCgoK",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAzDQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAA0CgAAIyBGbG9hdCBOZWNlc3NhcnkgV2luZG93cwp3aW5kb3dydWxlPWZsb2F0LFJvZmkKd2luZG93cnVsZT1mbG9hdCxwYXZ1Y29udHJvbAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKCkkLHRpdGxlOl4oUGljdHVyZSBpbiBwaWN0dXJlKSQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihicmF2ZSkkLHRpdGxlOl4oU2F2ZSBGaWxlKSQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihicmF2ZSkkLHRpdGxlOl4oT3BlbiBGaWxlKSQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihMaWJyZVdvbGYpJCx0aXRsZTpeKFBpY3R1cmUtaW4tUGljdHVyZSkkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oYmx1ZW1hbi1tYW5hZ2VyKSQKCiMgT3BhY2l0eSBSdWxlcwp3aW5kb3dydWxlPW9wYWNpdHkgMC45MixUaHVuYXIKd2luZG93cnVsZT1vcGFjaXR5IDAuOTIsTmF1dGlsdXMKd2luZG93cnVsZT1vcGFjaXR5IDAuOTYsZGlzY29yZAp3aW5kb3dydWxlPW9wYWNpdHkgMC45Nixhcm1jb3JkCndpbmRvd3J1bGU9b3BhY2l0eSAwLjk2LHdlYmNvcmQKCiMgSGlkZGVuIFdvcmtzcGFjZSBSdWxlcwp3aW5kb3dydWxldjIgPSB3b3Jrc3BhY2Ugc3BlY2lhbDpoaWRkZW4sY2xhc3M6XihkaXNjb3JkKSQKd2luZG93cnVsZXYyID0gd29ya3NwYWNlIHNwZWNpYWw6aGlkZGVuLGNsYXNzOl4odGVsZWdyYW0tZGVza3RvcCkkCndpbmRvd3J1bGV2MiA9IHdvcmtzcGFjZSBzcGVjaWFsOmhpZGRlbixjbGFzczpeKHBhdnVjb250cm9sKSQKd2luZG93cnVsZXYyID0gd29ya3NwYWNlIHNwZWNpYWw6aGlkZGVuLGNsYXNzOl4oYmx1ZW1hbi1tYW5hZ2VyKSQKCiMgU3RlYW0gQ29uZmlndXJhdGlvbgojIE1haW4gd2luZG93CndpbmRvd3J1bGV2MiA9IHRpbGUsY2xhc3M6XihTdGVhbSkkLHRpdGxlOl4oU3RlYW0pJAp3aW5kb3dydWxldjIgPSBhbmltYXRpb24gc2xpZGUsY2xhc3M6XihTdGVhbSkkCgojIFN0ZWFtIGNoaWxkIHdpbmRvd3MKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oRnJpZW5kcyBMaXN0KSQKd2luZG93cnVsZXYyID0gY2VudGVyLGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKEZyaWVuZHMgTGlzdCkkCndpbmRvd3J1bGV2MiA9IHNpemUgODAwIDYwMCxjbGFzczpeKHN0ZWFtKSQsdGl0bGU6XihGcmllbmRzIExpc3QpJAoKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oU3RlYW0gLSBOZXdzKSQKd2luZG93cnVsZXYyID0gY2VudGVyLGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKFN0ZWFtIC0gTmV3cykkCndpbmRvd3J1bGV2MiA9IHNpemUgMTAwMCA3MDAsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oU3RlYW0gLSBOZXdzKSQKCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTouKihTZXR0aW5ncykkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTouKihUcmFuc2ZlcikuKiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOi4qKERvd25sb2FkcykkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oU3RlYW0pJCx0aXRsZTpeKFByb3BlcnRpZXMpLiokCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKEFkZCBOb24tU3RlYW0gR2FtZSkuKiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oQWRkIGEgR2FtZSkuKiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbXdlYmhlbHBlcikkCgojIFN0ZWFtIHV0aWxpdGllcyBhbmQgdXBkYXRlcgp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKHN0ZWFtKSQsdGl0bGU6XihTdGVhbSAtIFNlbGYgVXBkYXRlcikkCndpbmRvd3J1bGV2MiA9IHdvcmtzcGFjZSBzcGVjaWFsOmhpZGRlbixjbGFzczpeKHN0ZWFtKSQsdGl0bGU6XihTdGVhbSAtIFNlbGYgVXBkYXRlcikkCndpbmRvd3J1bGV2MiA9IGZsb2F0LGNsYXNzOl4oc3RlYW0pJCx0aXRsZTpeKFNjcmVlbnNob3QgVXBsb2FkZXIpLiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOl4oU3RlYW0gR3VhcmQpLiQKd2luZG93cnVsZXYyID0gZmxvYXQsY2xhc3M6XihzdGVhbSkkLHRpdGxlOi4qKENEIEtleSkuJAoKIyBQYXZ1Y29udHJvbAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKHBhdnVjb250cm9sKSQKd2luZG93cnVsZXYyID0gcGluLGNsYXNzOl4ocGF2dWNvbnRyb2wpJAp3aW5kb3dydWxldjIgPSBzaXplIDgwMCA2MDAsY2xhc3M6XihwYXZ1Y29udHJvbCkkCndpbmRvd3J1bGV2MiA9IGNlbnRlcixjbGFzczpeKHBhdnVjb250cm9sKSQKCiMgRGlzY29yZAp3aW5kb3dydWxldjIgPSBmbG9hdCxjbGFzczpeKGRpc2NvcmQpJCx0aXRsZTpeKERpc2NvcmQgVXBkYXRlcikkCndpbmRvd3J1bGV2MiA9IHdvcmtzcGFjZSBzcGVjaWFsOmhpZGRlbixjbGFzczpeKGRpc2NvcmQpJCx0aXRsZTpeKERpc2NvcmQgVXBkYXRlcikkCndpbmRvd3J1bGV2MiA9IGFuaW1hdGlvbiBzbGlkZSxjbGFzczpeKGRpc2NvcmQpJAoKIyBUZWxlZ3JhbQp3aW5kb3dydWxldjIgPSBhbmltYXRpb24gc2xpZGUsY2xhc3M6Xih0ZWxlZ3JhbS1kZXNrdG9wKSQAAAAAAAAAADUKAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANAoAAAAAAAA0CgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/sohighman/Documentos/C Programming Courses/Lesson 3/problema1.c",
+					"settings":
+					{
+						"buffer_size": 425,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/sohighman/Documentos/C Programming Courses/Lesson 3"
+			],
+			"file_history":
+			[
+				"/home/sohighman/Documentos/FIEL_COSD040908I87_20241209095954/Contraseña.txt",
+				"/home/sohighman/.config/vesktop/themes/ClearVision_v6.theme.css",
+				"/home/sohighman/.config/hypr/configs/misc.conf",
+				"/home/sohighman/.config/hypr/configs/monitors.conf",
+				"/home/sohighman/.config/hypr/binds/workspace.conf",
+				"/home/sohighman/.config/waybar/config-hypr"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					").$\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/sohighman/Documentos/C Programming Courses/Lesson 3"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/usr/share/applications/steam.desktop",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6471,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/sohighman/.config/hypr/configs/windowrules.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2613,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2612,
+										2612
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/sohighman/Documentos/C Programming Courses/Lesson 3/problema1.c",
+							"selected": true,
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 425,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1910,1037,3456,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

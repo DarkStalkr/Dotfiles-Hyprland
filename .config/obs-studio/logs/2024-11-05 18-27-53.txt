@@ -1,0 +1,357 @@
+18:27:53.410: Platform: Wayland
+18:27:53.410: CPU Name: Intel(R) Core(TM) Ultra 7 155H
+18:27:53.410: CPU Speed: 2000.000MHz
+18:27:53.410: Physical Cores: 16, Logical Cores: 22
+18:27:53.410: Physical Memory: 31550MB Total, 8215MB Free
+18:27:53.410: Kernel Version: Linux 6.11.6-2-cachyos
+18:27:53.410: Distribution: "CachyOS Linux" Unknown
+18:27:53.410: Desktop Environment: Hyprland ()
+18:27:53.410: Session Type: wayland
+18:27:53.415: Qt Version: 6.8.0 (runtime), 6.7.2 (compiled)
+18:27:53.415: Portable mode: false
+18:27:53.467: OBS 30.2.1-1.1 (linux)
+18:27:53.467: ---------------------------------
+18:27:53.468: ---------------------------------
+18:27:53.468: audio settings reset:
+18:27:53.468: 	samples per sec: 48000
+18:27:53.468: 	speakers:        2
+18:27:53.468: 	max buffering:   960 milliseconds
+18:27:53.468: 	buffering type:  dynamically increasing
+18:27:53.476: ---------------------------------
+18:27:53.476: Initializing OpenGL...
+18:27:53.476: Using EGL/Wayland
+18:27:53.486: Initialized EGL 1.5
+18:27:53.508: Loading up OpenGL on adapter Intel Mesa Intel(R) Arc(tm) Graphics (MTL)
+18:27:53.509: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.2.6-cachyos1.3, shading language 4.60
+18:27:53.559: ---------------------------------
+18:27:53.559: video settings reset:
+18:27:53.559: 	base resolution:   1920x1080
+18:27:53.559: 	output resolution: 1920x1080
+18:27:53.559: 	downscale filter:  Bicubic
+18:27:53.559: 	fps:               60/1
+18:27:53.559: 	format:            NV12
+18:27:53.559: 	YUV mode:          Rec. 709/Partial
+18:27:53.559: NV12 texture support enabled
+18:27:53.559: P010 texture support not available
+18:27:53.573: Audio monitoring device:
+18:27:53.573: 	name: Default
+18:27:53.573: 	id: default
+18:27:53.573: ---------------------------------
+18:27:53.584: Failed to load 'en-US' text for module: 'decklink-captions.so'
+18:27:53.595: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+18:27:53.604: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:27:53.604: Failed to initialize module 'decklink.so'
+18:27:53.834: [pipewire] Available capture sources:
+18:27:53.834: [pipewire]     - Monitor source
+18:27:53.834: [pipewire]     - Window source
+18:27:53.967: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+18:27:53.978: VAAPI: API version 1.22
+18:27:53.979: FFmpeg VAAPI H264 encoding supported
+18:27:53.985: FFmpeg VAAPI AV1 encoding supported
+18:27:53.992: FFmpeg VAAPI HEVC encoding supported
+18:27:54.147: ---------------------------------
+18:27:54.147:   Loaded Modules:
+18:27:54.147:     text-freetype2.so
+18:27:54.147:     rtmp-services.so
+18:27:54.147:     obs-x264.so
+18:27:54.147:     obs-webrtc.so
+18:27:54.147:     obs-vst.so
+18:27:54.147:     obs-transitions.so
+18:27:54.147:     obs-qsv11.so
+18:27:54.147:     obs-outputs.so
+18:27:54.147:     obs-libfdk.so
+18:27:54.147:     obs-filters.so
+18:27:54.147:     obs-ffmpeg.so
+18:27:54.147:     linux-v4l2.so
+18:27:54.147:     linux-pulseaudio.so
+18:27:54.148:     linux-pipewire.so
+18:27:54.148:     linux-jack.so
+18:27:54.148:     linux-capture.so
+18:27:54.148:     linux-alsa.so
+18:27:54.148:     image-source.so
+18:27:54.148:     frontend-tools.so
+18:27:54.148:     decklink-output-ui.so
+18:27:54.148:     decklink-captions.so
+18:27:54.148: ---------------------------------
+18:27:54.148: ---------------------------------
+18:27:54.148: Available Encoders:
+18:27:54.148:   Video Encoders:
+18:27:54.148: 	- ffmpeg_svt_av1 (SVT-AV1)
+18:27:54.148: 	- ffmpeg_aom_av1 (AOM AV1)
+18:27:54.148: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+18:27:54.148: 	- av1_ffmpeg_vaapi_tex (FFmpeg VAAPI AV1)
+18:27:54.148: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+18:27:54.148: 	- obs_qsv11_v2 (QuickSync H.264)
+18:27:54.148: 	- obs_qsv11_av1 (QuickSync AV1)
+18:27:54.148: 	- obs_qsv11_hevc (QuickSync HEVC)
+18:27:54.148: 	- obs_x264 (x264)
+18:27:54.148:   Audio Encoders:
+18:27:54.148: 	- ffmpeg_aac (FFmpeg AAC)
+18:27:54.148: 	- ffmpeg_opus (FFmpeg Opus)
+18:27:54.148: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+18:27:54.148: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+18:27:54.148: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+18:27:54.148: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+18:27:54.148: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+18:27:54.148: 	- libfdk_aac (libfdk AAC)
+18:27:54.148: ==== Startup complete ===============================================
+18:27:54.197: All scene data cleared
+18:27:54.197: ------------------------------------------------
+18:27:54.210: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.6) 15.0.0'
+18:27:54.211: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+18:27:54.211: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Speaker__sink.monitor' (default)
+18:27:54.211: [Loaded global audio device]: 'Desktop Audio'
+18:27:54.212: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.6) 15.0.0'
+18:27:54.213: pulse-input: Audio format: s32le, 48000 Hz, 4 channels
+18:27:54.213: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Mic1__source' (default)
+18:27:54.214: [Loaded global audio device]: 'Mic/Aux'
+18:27:54.214: PipeWire initialized
+18:27:54.215: Switched to scene 'Scene'
+18:27:54.215: ------------------------------------------------
+18:27:54.215: Loaded scenes:
+18:27:54.215: - scene 'Scene':
+18:27:54.215:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+18:27:54.215: ------------------------------------------------
+18:27:54.267: [pipewire] Screencast session created
+18:27:54.343: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:27:54.375: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:27:54.833: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+18:27:54.833: 
+18:27:56.081: [pipewire] Asking for monitor and window
+18:27:56.092: [pipewire] source selected, setting up screencast
+18:27:56.101: [pipewire] Server version: 1.2.6
+18:27:56.101: [pipewire] Library version: 1.2.6
+18:27:56.101: [pipewire] Header version: 1.2.1
+18:27:56.102: [pipewire] Created stream 0x5eb0cf82d4e0
+18:27:56.102: [pipewire] Stream 0x5eb0cf82d4e0 state: "connecting" (error: none)
+18:27:56.102: [pipewire] Playing stream 0x5eb0cf82d4e0
+18:27:56.103: [pipewire] Stream 0x5eb0cf82d4e0 state: "paused" (error: none)
+18:27:56.144: [pipewire] Negotiated format:
+18:27:56.144: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.144: [pipewire]     Modifier: 0x0
+18:27:56.144: [pipewire]     Size: 3072x1920
+18:27:56.144: [pipewire]     Framerate: 0/1
+18:27:56.152: [pipewire] Negotiated format:
+18:27:56.152: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.152: [pipewire]     Modifier: 0x10000000000000f
+18:27:56.152: [pipewire]     Size: 3072x1920
+18:27:56.152: [pipewire]     Framerate: 0/1
+18:27:56.174: [pipewire] Stream 0x5eb0cf82d4e0 state: "streaming" (error: none)
+18:27:56.182: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+18:27:56.182: [pipewire] Renegotiating stream
+18:27:56.182: [pipewire] Stream 0x5eb0cf82d4e0 state: "paused" (error: none)
+18:27:56.182: [pipewire] Negotiated format:
+18:27:56.182: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.182: [pipewire]     Modifier: 0x10000000000000f
+18:27:56.182: [pipewire]     Size: 3072x1920
+18:27:56.182: [pipewire]     Framerate: 0/1
+18:27:56.189: [pipewire] Negotiated format:
+18:27:56.189: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.189: [pipewire]     Modifier: 0x10000000000000d
+18:27:56.189: [pipewire]     Size: 3072x1920
+18:27:56.189: [pipewire]     Framerate: 0/1
+18:27:56.189: [pipewire] Negotiated format:
+18:27:56.189: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.189: [pipewire]     Modifier: 0x10000000000000d
+18:27:56.189: [pipewire]     Size: 3072x1920
+18:27:56.189: [pipewire]     Framerate: 0/1
+18:27:56.195: [pipewire] Negotiated format:
+18:27:56.195: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.195: [pipewire]     Modifier: 0x10000000000000d
+18:27:56.195: [pipewire]     Size: 3072x1920
+18:27:56.195: [pipewire]     Framerate: 0/1
+18:27:56.218: [pipewire] Stream 0x5eb0cf82d4e0 state: "streaming" (error: none)
+18:27:56.224: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+18:27:56.224: [pipewire] Renegotiating stream
+18:27:56.224: [pipewire] Stream 0x5eb0cf82d4e0 state: "paused" (error: none)
+18:27:56.225: [pipewire] Negotiated format:
+18:27:56.225: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.225: [pipewire]     Modifier: 0x10000000000000d
+18:27:56.225: [pipewire]     Size: 3072x1920
+18:27:56.225: [pipewire]     Framerate: 0/1
+18:27:56.231: [pipewire] Negotiated format:
+18:27:56.231: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.231: [pipewire]     Modifier: 0x100000000000009
+18:27:56.231: [pipewire]     Size: 3072x1920
+18:27:56.231: [pipewire]     Framerate: 0/1
+18:27:56.232: [pipewire] Negotiated format:
+18:27:56.232: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.232: [pipewire]     Modifier: 0x100000000000009
+18:27:56.232: [pipewire]     Size: 3072x1920
+18:27:56.232: [pipewire]     Framerate: 0/1
+18:27:56.238: [pipewire] Negotiated format:
+18:27:56.238: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+18:27:56.238: [pipewire]     Modifier: 0x100000000000009
+18:27:56.238: [pipewire]     Size: 3072x1920
+18:27:56.238: [pipewire]     Framerate: 0/1
+18:27:56.260: [pipewire] Stream 0x5eb0cf82d4e0 state: "streaming" (error: none)
+18:27:58.024: >>> new qsv encoder
+18:27:58.024: [qsv encoder: 'advanced_video_recording'] settings:
+18:27:58.024: 	codec:          AV1
+18:27:58.024: 	rate_control:   CBR
+18:27:58.024: 	target_bitrate: 2500
+18:27:58.024: 	Lookahead Depth:60
+18:27:58.024: 	target_usage:   TU4
+18:27:58.024: 	profile:        main
+18:27:58.024: 	keyint:         0
+18:27:58.024: 	latency:        normal
+18:27:58.024: 	b-frames:       3
+18:27:58.024: 	fps_num:        60
+18:27:58.024: 	fps_den:        1
+18:27:58.024: 	width:          1920
+18:27:58.024: 	height:         1080
+18:27:58.024: [qsv encoder: 'advanced_video_recording'] debug info:
+18:27:58.031: Failed to initialize MFX
+18:27:58.031: [qsv encoder: 'msdk_impl'] Specified object/item/sync point not found. (MFX_ERR_NOT_FOUND)
+18:27:58.031: [qsv encoder: 'advanced_video_recording'] qsv failed to load
+18:27:58.031: 	major:          1
+18:27:58.031: 	minor:          0
+18:27:58.031: 	interval:       4
+18:27:58.031: 	GopPictSize:    0
+18:27:58.031: 	g_pts2dtsShift: 0
+18:27:58.050: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:28:03.669: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:28:04.596: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:28:05.151: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:28:06.101: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:28:06.310: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:29:16.972: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:29:16.973: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:29:17.078:   OpenType support missing for "Open Sans", script 11
+18:29:17.082:   OpenType support missing for "Arial", script 11
+18:29:17.087:   OpenType support missing for "Open Sans", script 12
+18:29:17.091:   OpenType support missing for "Arial", script 12
+18:29:17.095:   OpenType support missing for "Open Sans", script 16
+18:29:17.099:   OpenType support missing for "Arial", script 16
+18:29:17.103:   OpenType support missing for "Open Sans", script 20
+18:29:17.107:   OpenType support missing for "Arial", script 20
+18:29:23.185: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:29:28.820: Settings changed (outputs)
+18:29:28.820: ------------------------------------------------
+18:29:39.721: ---------------------------------
+18:29:39.721: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+18:29:39.721: 	device:       /dev/dri/by-path/pci-0000:00:02.0-render
+18:29:39.721: 	rate_control: CBR
+18:29:39.721: 	profile:      0
+18:29:39.721: 	level:        -99
+18:29:39.721: 	qp:           0
+18:29:39.721: 	bitrate:      2500
+18:29:39.721: 	maxrate:      2500
+18:29:39.721: 	keyint:       120
+18:29:39.721: 	width:        1920
+18:29:39.721: 	height:       1080
+18:29:39.721: 	b-frames:     0
+18:29:39.721: 	ffmpeg opts:  
+18:29:39.721: 
+18:29:39.733: libfdk_aac encoder created
+18:29:39.733: libfdk_aac bitrate: 160, channels: 2
+18:29:39.753: ==== Recording Start ===============================================
+18:29:39.753: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sohighman/2024-11-05 18-29-39.mkv'...
+18:29:39.758: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+18:29:59.980: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/sohighman/2024-11-05 18-29-39.mkv' stopped
+18:29:59.980: Output 'adv_file_output': stopping
+18:29:59.980: Output 'adv_file_output': Total frames output: 1208
+18:29:59.980: Output 'adv_file_output': Total drawn frames: 1214
+18:29:59.980: ==== Recording Stop ================================================
+18:30:00.003: libfdk_aac encoder destroyed
+18:30:36.446: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:30:36.447: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:30:36.669: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:30:51.973: Settings changed (outputs)
+18:30:51.973: ------------------------------------------------
+18:30:57.680: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:31:15.913: Settings changed (outputs)
+18:31:15.913: ------------------------------------------------
+18:31:18.722: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:31:23.153: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:31:25.130: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:31:26.042: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:31:29.518: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:31:33.337: ---------------------------------
+18:31:33.337: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+18:31:33.337: 	device:       /dev/dri/by-path/pci-0000:00:02.0-render
+18:31:33.337: 	rate_control: CBR
+18:31:33.337: 	profile:      0
+18:31:33.337: 	level:        -99
+18:31:33.337: 	qp:           0
+18:31:33.337: 	bitrate:      2500
+18:31:33.337: 	maxrate:      2500
+18:31:33.337: 	keyint:       120
+18:31:33.337: 	width:        1920
+18:31:33.337: 	height:       1080
+18:31:33.337: 	b-frames:     0
+18:31:33.337: 	ffmpeg opts:  
+18:31:33.337: 
+18:31:33.348: libfdk_aac encoder created
+18:31:33.349: libfdk_aac bitrate: 160, channels: 2
+18:31:33.366: ==== Recording Start ===============================================
+18:31:33.366: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sohighman/Videos/2024-11-05 18-31-33.mp4'...
+18:31:33.374: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+18:32:06.728: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/sohighman/Videos/2024-11-05 18-31-33.mp4' stopped
+18:32:06.728: Output 'adv_file_output': stopping
+18:32:06.728: Output 'adv_file_output': Total frames output: 1995
+18:32:06.728: Output 'adv_file_output': Total drawn frames: 1998 (2002 attempted)
+18:32:06.728: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.2%)
+18:32:06.729: Video stopped, number of skipped frames due to encoding lag: 4/2000 (0.2%)
+18:32:06.729: ==== Recording Stop ================================================
+18:32:06.747: libfdk_aac encoder destroyed
+18:32:53.780: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:32:53.780: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:32:53.986: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:05.557: Number of remaining views: 1
+18:33:05.557: ---------------------------------
+18:33:05.557: video settings reset:
+18:33:05.557: 	base resolution:   3072x1920
+18:33:05.557: 	output resolution: 1840x1152
+18:33:05.557: 	downscale filter:  Bicubic
+18:33:05.557: 	fps:               60/1
+18:33:05.557: 	format:            NV12
+18:33:05.557: 	YUV mode:          Rec. 709/Partial
+18:33:05.557: NV12 texture support enabled
+18:33:05.557: P010 texture support not available
+18:33:05.578: Settings changed (outputs, video)
+18:33:05.578: ------------------------------------------------
+18:33:07.741: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:08.451: Creating a popup with a parent, QWidgetWindow(0x5eb0cdaa20f0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x5eb0ced08f00, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+18:33:08.458: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:08.704: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:10.526: Creating a popup with a parent, QWidgetWindow(0x5eb0cdaa20f0, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x5eb0ced08f00, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+18:33:10.539: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:17.126: ---------------------------------
+18:33:17.126: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+18:33:17.126: 	device:       /dev/dri/by-path/pci-0000:00:02.0-render
+18:33:17.126: 	rate_control: CBR
+18:33:17.126: 	profile:      0
+18:33:17.126: 	level:        -99
+18:33:17.126: 	qp:           0
+18:33:17.126: 	bitrate:      2500
+18:33:17.126: 	maxrate:      2500
+18:33:17.126: 	keyint:       120
+18:33:17.126: 	width:        1840
+18:33:17.126: 	height:       1152
+18:33:17.126: 	b-frames:     0
+18:33:17.126: 	ffmpeg opts:  
+18:33:17.126: 
+18:33:17.137: libfdk_aac encoder created
+18:33:17.137: libfdk_aac bitrate: 160, channels: 2
+18:33:17.156: ==== Recording Start ===============================================
+18:33:17.156: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sohighman/Videos/2024-11-05 18-33-17.mp4'...
+18:33:17.164: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+18:33:35.595: [FFmpeg VAAPI encoder: 'advanced_video_recording'] Failed to export VA surface handle: operation failed
+18:33:35.595: [FFmpeg VAAPI encoder: 'advanced_video_recording'] vaapi_encode_tex: failed to create texture hw frame
+18:33:35.596: Error encoding with encoder 'advanced_video_recording'
+18:33:35.600: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/sohighman/Videos/2024-11-05 18-33-17.mp4' stopped
+18:33:35.600: Output 'adv_file_output': stopping
+18:33:35.600: Output 'adv_file_output': Total frames output: 1100
+18:33:35.600: Output 'adv_file_output': Total drawn frames: 1107
+18:33:35.600: libfdk_aac encoder destroyed
+18:33:35.600: ==== Recording Stop ================================================
+18:33:35.608: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:46.146: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:47.319: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:47.357: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:47.771: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:48.459: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:33:49.331: The cached device pixel ratio value was stale on window update.  Please file a QTBUG which explains how to reproduce.
+18:34:12.766: Get on org.freedesktop.portal.Settings returned an invalid reply
+18:34:12.767: Get on org.freedesktop.portal.Settings returned an invalid reply

@@ -1,0 +1,13 @@
+2024-12-08T04:40:05.784Z 0: 
+
+----------------------------------------------
+2024-12-08T04:40:05.792Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.76"}, modulepath: /home/sohighman/.config/discord/0.0.76/modules
+2024-12-08T04:40:05.795Z 2: ✅ webContents.created web1 ""
+2024-12-08T04:40:05.798Z 3: ✅ window.created win1 "discord"
+2024-12-08T04:40:06.145Z 4: ✅ webContents.did-finish-load web1
+2024-12-08T04:40:27.854Z 5: ✅ webContents.created web2 ""
+2024-12-08T04:40:27.859Z 6: ✅ window.created win2 "Discord"
+2024-12-08T04:40:32.700Z 7: before-quit
+2024-12-08T04:40:32.708Z 8: window.close win1
+2024-12-08T04:40:32.710Z 9: window.close win2
+2024-12-08T04:40:32.720Z 10: webContents.destroyed web1

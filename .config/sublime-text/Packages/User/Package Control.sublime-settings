@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control",
+	],
+	"installed_packages":
+	[
+		"C++11",
+		"Javatar",
+		"Package Control",
+		"Python 3",
+	],
+}
