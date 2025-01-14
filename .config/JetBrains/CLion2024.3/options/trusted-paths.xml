@@ -1,9 +1,0 @@
-<application>
-  <component name="Trusted.Paths">
-    <option name="TRUSTED_PROJECT_PATHS">
-      <map>
-        <entry key="$USER_HOME$/.cache/JetBrains/CLion2024.3/demo/LearnCppProject" value="true" />
-      </map>
-    </option>
-  </component>
-</application>
